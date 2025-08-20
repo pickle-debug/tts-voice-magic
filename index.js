@@ -447,6 +447,26 @@ const HTML_PAGE = `
                                 <option value="zh-CN-YunxiaNeural">云夏 (男声·热情)</option>
                                 <option value="zh-CN-YunyeNeural">云野 (男声·野性)</option>
                                 <option value="zh-CN-YunzeNeural">云泽 (男声·深沉)</option>
+                                <option value="en-US-JennyNeural">Jenny (Female·Friendly)</option>
+                                <option value="en-US-GuyNeural">Guy (Male·Casual)</option>
+                                <option value="en-US-AriaNeural">Aria (Female·Cheerful)</option>
+                                <option value="en-US-DavisNeural">Davis (Male·Newscast)</option>
+                                <option value="en-US-JaneNeural">Jane (Female·Calm)</option>
+                                <option value="en-US-TonyNeural">Tony (Male·Serious)</option>
+                                <option value="en-GB-SoniaNeural">Sonia (Female·British)</option>
+                                <option value="en-GB-RyanNeural">Ryan (Male·British)</option>
+                                <option value="en-AU-NatashaNeural">Natasha (Female·Australian)</option>
+                                <option value="en-AU-WilliamNeural">William (Male·Australian)</option>
+                                <option value="en-CA-ClaraNeural">Clara (Female·Canadian)</option>
+                                <option value="en-CA-LiamNeural">Liam (Male·Canadian)</option>
+                                <option value="en-IN-NeerjaNeural">Neerja (Female·Indian)</option>
+                                <option value="en-IN-PrabhatNeural">Prabhat (Male·Indian)</option>
+                                <option value="en-IE-EmilyNeural">Emily (Female·Irish)</option>
+                                <option value="en-IE-ConnorNeural">Connor (Male·Irish)</option>
+                                <option value="en-NZ-MollyNeural">Molly (Female·New Zealand)</option>
+                                <option value="en-NZ-MitchellNeural">Mitchell (Male·New Zealand)</option>
+                                <option value="en-ZA-LeahNeural">Leah (Female·South African)</option>
+                                <option value="en-ZA-LukeNeural">Luke (Male·South African)</option>
                             </select>
                         </div>
                         
